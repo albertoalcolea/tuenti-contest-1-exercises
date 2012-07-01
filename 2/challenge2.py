@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+# Implementado usando un analizador descendente recursivo LL
+
 import sys
 import re
 
